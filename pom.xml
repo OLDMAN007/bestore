@@ -36,7 +36,7 @@
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <version>5.1.22</version>
+      <version>8.0.16</version>
       <!--maven工作范围 驱动在真正工作的时候使用，故生命周期改为runtime-->
       <scope>runtime</scope>
     </dependency>
